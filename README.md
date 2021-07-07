@@ -1,6 +1,7 @@
 ## HW-1-Code-Refactor
 
-[Horiseon](./index.html)
+- [Horiseon Index](./index.html)
+- [Horiseon CSS](./css/stlye.css)
 
 # What has been found
 
