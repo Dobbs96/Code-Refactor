@@ -1,4 +1,4 @@
-## HW-1-Code-Refactor
+## Code-Refactor
 
 - [Horiseon Index](./index.html)
 - [Horiseon CSS](./css/stlye.css)
